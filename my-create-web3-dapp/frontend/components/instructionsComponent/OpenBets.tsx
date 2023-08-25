@@ -1,7 +1,7 @@
 import { useState } from "react";
 import React from "react";
 import { usePrepareContractWrite, useContractWrite } from "wagmi";
-import lotteryJson from "/Users/goncaloazevedo/Desktop/Encode bootcamp/weekend/my-create-web3-dapp/frontend/components/instructionsComponent/assets/Lottery.json";
+import lotteryJson from "./assets/Lottery.json";
 
 const lotAddress = "0xFc64B9b724BdE2728369E8a13000DF949068B5Fb";
 
